@@ -1,13 +1,11 @@
-# rLeT Chatbot - Front End
+# HNPT Chatbot - Front End
 
-Phần front-end của rLeT Chatbot được publlish ở: https://rletbotbku.herokuapp.com 
+Phần front-end của Chatbot Hướng Nghiệp được publlish ở: https://hnptbottdmu.herokuapp.com
 
-Luận văn tốt nghiệp: "Phát triển hệ thống chatbot hỗ trợ tư vấn giao dịch buôn bán bằng các phương pháp học máy"
+Luận văn tốt nghiệp: "XÂY DỰNG HỆ THỐNG CHATBOT HỖ TRỢ TƯ VẤN HƯỚNG NGHIỆP CHO HỌC SINH TRƯỜNG THPT TX BÌNH LONG TỈNH BÌNH PHƯỚC"
 
 ## Giáo viên hướng dẫn
 PGS. TS. Quản Thành Thơ
-## Giáo viên phản biện
-PGS. TS. Bùi Hoài Thắng
+
 ## Thành viên
-* 1513448 - Nguyễn Hữu Anh Tiến
-* 1511849 - Nguyễn Hoàng Lộc
+* 1784801040013 - Hồ Lê Phương Thọ
